@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //absdbsdbsdb
 
-        int i=0;
+        //asdgasdgasdgasdgasgdasdg
     }
 }
